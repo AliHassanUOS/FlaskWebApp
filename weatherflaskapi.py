@@ -28,6 +28,8 @@ def search_city():
     else:
         return f'Error getting temperature for {city.title()}'
 
+#added comment in code
+
 @app.route('/')
 def index():
     return '<h1>Welcome to weather app</h1>'
