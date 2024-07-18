@@ -1,0 +1,26 @@
+{
+    "urls": [
+        {
+            "name": "emqx_url",
+            "url": "https://uptime.thingtrax.com/api/push/aWvsFD29rBWlpu8401etIsVaKu646Pto?status=up&msg=OK&ping="
+        },
+        {
+            "name": "thingtrax_devices_url",
+            "url": "https://uptime.thingtrax.com/api/push/e7UULUl6e0hXfKHlitFuC6VTNMnaKolq?status=up&msg=OK&ping="
+        },
+        {
+            "name": "mongodb_url",
+            "url": "https://uptime.thingtrax.com/api/push/bmALVIqoKu5MNOr4fqxCkSK5aRpMvgNh?status=up&msg=OK&ping="
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
